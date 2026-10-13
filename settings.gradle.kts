@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "androidtemplate"
+rootProject.name = "Agenda_ArquitecturaBase"
 include(":app")
