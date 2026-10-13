@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Agenda Arquitectura Base</string>
+    <string name="greeting">Hola mundo!!!!</string>
 </resources>
