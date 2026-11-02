@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Agenda_ArquitecturaBase"
+rootProject.name = "pmdm-32-imagen-agenda"
 include(":app")
